@@ -1,0 +1,12 @@
+.item-list {
+  margin-bottom: 25px;
+}
+
+.item-list .list-group-item {
+  cursor: pointer;
+  text-align: center;
+}
+
+.item-list .list-group-item:hover {
+  background-color: #444;
+}

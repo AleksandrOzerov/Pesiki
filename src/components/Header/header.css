@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+  height: 50px;
+}
+
+.font {
+  font-weight: bold;
+  color: rgb(243, 156, 56);
+}
+.header ul li {
+  list-style: none;
+  padding: 15px;
+  font-weight: bold;
+}
+.header ul li:hover {
+  background-color: #444;
+}

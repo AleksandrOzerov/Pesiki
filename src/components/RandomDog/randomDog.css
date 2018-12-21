@@ -1,0 +1,8 @@
+.img-fluid {
+  max-width: 200px;
+  max-height: 200px;
+}
+.random-dog {
+  display: flex;
+  padding: 1rem;
+}
